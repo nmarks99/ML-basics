@@ -1,3 +1,9 @@
 # ML Basics
-This repository contains code which I am using to learn/refresh my knowledge
-of various machine learning problems and algorithms and also to learn PyTorch.
+This repository demonstrates some of the foundational problems
+in machine learning using PyTorch.
+
+In order of increasing complexity:
+- Linear regression
+- Nonlinear regression
+- Logistic (linear) regression
+
