@@ -6,4 +6,4 @@ In order of increasing complexity:
 - Linear regression
 - Nonlinear regression
 - Logistic (linear) regression
-
+- Image classification (MNIST)
