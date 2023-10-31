@@ -5,5 +5,6 @@ in machine learning using PyTorch.
 In order of increasing complexity:
 - Linear regression
 - Nonlinear regression
-- Logistic (linear) regression
-- Image classification (MNIST)
+- Logistic regression
+- Handwritten digit classification (MNIST)
+- Image denoising using a convolutional autoencoder

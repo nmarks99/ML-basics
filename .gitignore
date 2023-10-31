@@ -1,5 +1,7 @@
 .vscode/
-datasets/MNIST/
+mnist/datasets/
+convAE_denoising/datasets/
+*.tar.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
