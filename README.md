@@ -8,3 +8,4 @@ In order of increasing complexity:
 - [Logistic regression](./regression/)
 - [Handwritten digit classification](./mnist/)
 - [Image denoising using a convolutional autoencoder](./convAE_denoising/)
+- [Automatic differentiation](./autodiff/)
